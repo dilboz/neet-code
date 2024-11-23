@@ -10,11 +10,12 @@
 
         private static bool ContainsDuplicate(int[] nums) {
             var set = new HashSet<int>();
-            for (var i = 0; i < nums.Length; i++) {
-                if (set.Contains(nums[i])) {
+            foreach (var t in nums)
+            {
+                if (set.Contains(t)) {
                     return true;
                 }
-                set.Add(nums[i]);
+                set.Add(t);
             }
             return false;
         }

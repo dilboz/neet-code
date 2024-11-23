@@ -2,6 +2,8 @@
 Microsoft Visual Studio Solution File, Format Version 12.00
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ContainsDuplicate", "ContainsDuplicate\ContainsDuplicate.csproj", "{399F3B81-2167-4DC5-95D4-122FA252014E}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ValidAnagram", "ValidAnagram\ValidAnagram.csproj", "{0D9AA69C-CABA-4DCC-8C75-7E1D57CCBAE2}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -12,5 +14,9 @@ Global
 		{399F3B81-2167-4DC5-95D4-122FA252014E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{399F3B81-2167-4DC5-95D4-122FA252014E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{399F3B81-2167-4DC5-95D4-122FA252014E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0D9AA69C-CABA-4DCC-8C75-7E1D57CCBAE2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0D9AA69C-CABA-4DCC-8C75-7E1D57CCBAE2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0D9AA69C-CABA-4DCC-8C75-7E1D57CCBAE2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0D9AA69C-CABA-4DCC-8C75-7E1D57CCBAE2}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
