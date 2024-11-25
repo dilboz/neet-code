@@ -12,6 +12,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IsSubsequence", "IsSubseque
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LengthOfLastWord", "LengthOfLastWord \LengthOfLastWord.csproj", "{1A65E411-493E-401E-9FBA-72D7F694FE01}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TwoSum", "TwoSum\TwoSum.csproj", "{EF458992-CE09-45BB-B756-592F56FBC8F3}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -42,5 +44,9 @@ Global
 		{1A65E411-493E-401E-9FBA-72D7F694FE01}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1A65E411-493E-401E-9FBA-72D7F694FE01}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1A65E411-493E-401E-9FBA-72D7F694FE01}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EF458992-CE09-45BB-B756-592F56FBC8F3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EF458992-CE09-45BB-B756-592F56FBC8F3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EF458992-CE09-45BB-B756-592F56FBC8F3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EF458992-CE09-45BB-B756-592F56FBC8F3}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
