@@ -10,6 +10,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReplaceElementsWithGreatest
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IsSubsequence", "IsSubsequence \IsSubsequence.csproj", "{29E82505-10EF-497A-8BB0-77CB10AF57A1}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LengthOfLastWord", "LengthOfLastWord \LengthOfLastWord.csproj", "{1A65E411-493E-401E-9FBA-72D7F694FE01}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -36,5 +38,9 @@ Global
 		{29E82505-10EF-497A-8BB0-77CB10AF57A1}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{29E82505-10EF-497A-8BB0-77CB10AF57A1}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{29E82505-10EF-497A-8BB0-77CB10AF57A1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1A65E411-493E-401E-9FBA-72D7F694FE01}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1A65E411-493E-401E-9FBA-72D7F694FE01}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1A65E411-493E-401E-9FBA-72D7F694FE01}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1A65E411-493E-401E-9FBA-72D7F694FE01}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
