@@ -8,6 +8,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConcatenationOfArray", "Con
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReplaceElementsWithGreatestElementOnRightSide", "ReplaceElementsWithGreatestElementOnRightSide\ReplaceElementsWithGreatestElementOnRightSide.csproj", "{76DF9B30-D42B-4209-9BFF-C0F4E459F484}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IsSubsequence", "IsSubsequence \IsSubsequence.csproj", "{29E82505-10EF-497A-8BB0-77CB10AF57A1}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -30,5 +32,9 @@ Global
 		{76DF9B30-D42B-4209-9BFF-C0F4E459F484}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{76DF9B30-D42B-4209-9BFF-C0F4E459F484}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{76DF9B30-D42B-4209-9BFF-C0F4E459F484}.Release|Any CPU.Build.0 = Release|Any CPU
+		{29E82505-10EF-497A-8BB0-77CB10AF57A1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{29E82505-10EF-497A-8BB0-77CB10AF57A1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{29E82505-10EF-497A-8BB0-77CB10AF57A1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{29E82505-10EF-497A-8BB0-77CB10AF57A1}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
