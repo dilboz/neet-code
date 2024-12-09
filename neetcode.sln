@@ -18,6 +18,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LongestCommonPrefix", "Long
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GroupAnagrams", "GroupAnagrams\GroupAnagrams.csproj", "{39D9AD06-6ADC-42A5-B5FB-CE00A1E61AD1}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Generate", "Generate\Generate.csproj", "{FBA703F2-9D9F-4DD1-9064-D3FDF2637949}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -60,5 +62,9 @@ Global
 		{39D9AD06-6ADC-42A5-B5FB-CE00A1E61AD1}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{39D9AD06-6ADC-42A5-B5FB-CE00A1E61AD1}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{39D9AD06-6ADC-42A5-B5FB-CE00A1E61AD1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FBA703F2-9D9F-4DD1-9064-D3FDF2637949}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FBA703F2-9D9F-4DD1-9064-D3FDF2637949}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FBA703F2-9D9F-4DD1-9064-D3FDF2637949}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FBA703F2-9D9F-4DD1-9064-D3FDF2637949}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
