@@ -14,6 +14,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LengthOfLastWord", "LengthO
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TwoSum", "TwoSum\TwoSum.csproj", "{EF458992-CE09-45BB-B756-592F56FBC8F3}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LongestCommonPrefix", "LongestCommonPrefix\LongestCommonPrefix.csproj", "{8CDDF3CA-3D02-4FEB-852D-6C266C75E7CC}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -48,5 +50,9 @@ Global
 		{EF458992-CE09-45BB-B756-592F56FBC8F3}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{EF458992-CE09-45BB-B756-592F56FBC8F3}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{EF458992-CE09-45BB-B756-592F56FBC8F3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8CDDF3CA-3D02-4FEB-852D-6C266C75E7CC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8CDDF3CA-3D02-4FEB-852D-6C266C75E7CC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8CDDF3CA-3D02-4FEB-852D-6C266C75E7CC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8CDDF3CA-3D02-4FEB-852D-6C266C75E7CC}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
